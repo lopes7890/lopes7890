@@ -1,7 +1,8 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 <div>
   <a href="https://github.com/lopes7890">
-  <img src="https://github-readme-stats.vercel.app/api?username=lopes7890&show_icons=true&theme=dark"
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lopes7890&show_icons=true&theme=dark">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes7890&theme=dark">
     
 ##
 <div>
