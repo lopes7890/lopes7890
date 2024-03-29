@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil 👋
+### Olá, seja bem vindo ao meu perfil 
 <div>
   <a href="https://github.com/lopes7890">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lopes7890&show_icons=true&theme=dark">
