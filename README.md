@@ -2,13 +2,14 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/lopes7890"></a>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lopes7890&show_icons=true&theme=dark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes7890&theme=dark">
+</div>
     
 
-<div>
+<div align="center">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
