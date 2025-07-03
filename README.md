@@ -15,6 +15,7 @@
   <img align="center" height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" height="50" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
 </div>
 
 ##
